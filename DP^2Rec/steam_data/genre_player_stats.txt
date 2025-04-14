@@ -1,0 +1,21 @@
+类别名称,总交互数,连接玩家数量,该类别游戏总数,平均每玩家交互数
+Audio Production,129457,11767,4772,11.00
+Action,98174,11767,3464,8.34
+RPG,90318,11767,46,7.68
+Simulation,77741,11767,31,6.61
+Casual,58092,11767,2778,4.94
+Racing,55142,11767,27,4.69
+Adventure,54762,11767,1764,4.65
+Animation & Modeling,53987,11767,1457,4.59
+Early Access,53695,11767,1972,4.56
+Utilities,53684,11767,25,4.56
+Massively Multiplayer,50801,11767,417,4.32
+Indie,48509,11767,1128,4.12
+Strategy,48253,11767,12,4.10
+Software Training,46951,11767,24,3.99
+Design & Illustration,38894,11767,235,3.31
+Sports,37366,11767,14,3.18
+Education,36281,11767,228,3.08
+Photo Editing,36244,11767,228,3.08
+Video Production,35452,11767,6,3.01
+Web Publishing,35443,11767,6,3.01
