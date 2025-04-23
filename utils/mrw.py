@@ -499,7 +499,7 @@ def main():
     
     for game_id, genre_ids in DataLoader.genre_mapping.items():
         game_to_genres[game_id] = genre_ids
-        game_to_genre_names[game_id] = [genre_id_to_name.get(genre_id, f"类别_{genre_id}") for genre_id in genre_ids]
+        game_to_genre_names[game_id] = [genre_id_to_name.get(genre_id, f"Category_{genre_id}") for genre_id in genre_ids]
     
 
     genre_to_games = defaultdict(list)
